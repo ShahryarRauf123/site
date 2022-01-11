@@ -1,0 +1,94 @@
+body {
+  background-color: white;
+  text-align: center;
+  margin: 0;
+  font-family: 'Be Vietnam Pro', sans-serif;
+  }
+.Heading {
+color: black;
+font-size: 300%;
+font-family: 'Licorice', cursive;
+}
+.Main1 {
+color: grey;
+font-size: 130%;
+}
+.Profile {
+height: 350px;
+width: 350px;
+max-width: 350px;
+max-height: 350px;
+}
+.Poster {
+height: 500px;
+width: 100%;
+max-width: 100%;
+max-height: 500px;
+margin: 0;
+}
+.Linne {
+  visibility: hidden;
+}
+
+table {
+text-align: center;
+}
+
+img {
+  max-width: 90%;
+  max-height: 90%}
+
+table {margin-left: auto;margin-right: auto;}
+ul {list-style: none;}
+
+  .main {
+margin: 10px
+  }
+
+
+  .dots {background-color: transparent;
+      border-style: none;
+      border-top: dotted 1px;
+      border-color: black;
+      border-width: 7px;
+      height: 1px;
+      width: 15%;}
+
+hr {
+  visibility: hidden;
+}
+div {border-radius: 4%}
+
+
+.Front {background-color: #F0ECE3;}
+.Bio {background-color: #FABB51;}
+.HBio{font-family: 'Qwitcher Grypen', cursive;
+font-size: 45px}
+.WebDevelopment {font-family: 'Abril Fatface', cursive;}
+.Talents {background-color: #95D1CC}
+.HSkills {font-family: 'Satisfy', cursive;}
+.HTalents {font-family: 'Comforter Brush', cursive;}
+.Skills {background-color: #D1E8E4}
+.HArchitectural {font-family: 'Great Vibes', cursive;}
+.HMyWork {font-family: 'Parisienne', cursive;}
+.HEducation {font-family: 'Playfair Display SC', serif;}
+.Font {font-family: 'Oswald', sans-serif;}
+.Education {background-color: #93B5C6}
+.MyWork {background-color: #F8A488}
+.HContact {font-family: 'Satisfy', cursive;}
+.Contact {background-color: #D9D7F1}
+.End {background-color: #DFD3C3}
+.form-submit-button {
+     background:#B9DFFF;
+     color:#fff;
+     border:1pxsolid#eee;
+     border-radius:20px;
+     box-shadow:5px5px5px#eee;
+     text-shadow:none;}
+.form-submit-button:hover {
+     background:#016ABC;
+     color:#fff;
+     border:1pxsolid#eee;
+     border-radius:20px;
+     box-shadow:5px5px5px#eee;
+     text-shadow:none;}
